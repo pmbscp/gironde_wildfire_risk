@@ -1,0 +1,5 @@
+[project]
+name = "gironde-wildfire-risk-watch"
+version = "0.1.0"
+description = "Experimental wildfire risk modelling project for Gironde, France."
+requires-python = ">=3.11"
